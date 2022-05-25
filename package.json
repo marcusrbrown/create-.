@@ -1,0 +1,20 @@
+{
+  "name": "create-.",
+  "version": "0.1.0",
+  "description": "Create or update a npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusrbrown/create-..git"
+  },
+  "keywords": ["node", "npm", "package", "create", "update"],
+  "author": "Marcus R. Brown <contact@marcusrbrown.com> (https://marcusrbrown.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusrbrown/create-./issues"
+  },
+  "homepage": "https://github.com/marcusrbrown/create-.#readme"
+}
