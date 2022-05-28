@@ -3,7 +3,13 @@
   "version": "0.1.0",
   "description": "Create or update a npm package.",
   "main": "index.js",
-  "bin": {".": "./cli.js"},
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "bin": {
+    ".": "./cli.js"
+  },
   "scripts": {
     "test": "echo \"Warning: there are no tests\" && exit 0"
   },
